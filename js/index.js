@@ -68,5 +68,5 @@ app.get('/public', (req, res) => {
 
 
 app.listen(port, () => {
-  console.log(ura ishladi ${port})
+  console.log(`ura ishladi ${port}`)
 })
